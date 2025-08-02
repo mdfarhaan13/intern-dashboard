@@ -31,9 +31,9 @@ Node.js (version 14 or higher)
 
 npm (comes with Node.js)
 
-1. Clone the Repository
-git clone https://github.com/mdfarhaan13/intern-dashboard.git
-cd intern-dashboard
+1. Clone the Repository:
+   git clone https://github.com/mdfarhaan13/intern-dashboard.git
+   cd intern-dashboard
 
 2. Set Up the Backend
 The backend serves the data for the application.
