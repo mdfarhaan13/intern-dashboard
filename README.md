@@ -50,7 +50,7 @@ Note: The server must be running for the frontend to function.
 3. Set Up the Frontend
 The frontend is the React application that you will see in your browser. Open a new terminal window for this step.
 
-Bash
+'''Bash'''
 
 # Navigate to the frontend directory
 cd ../frontend
