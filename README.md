@@ -61,4 +61,5 @@ npm install
 
 # Start the React development server. It will open in your browser at http://localhost:3000
 npm start
+
 The application will now be fully functional.
