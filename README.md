@@ -35,7 +35,7 @@ npm (comes with Node.js)
 Bash
 
 git clone https://github.com/mdfarhaan13/intern-dashboard.git
-cd intern-dashboard-project
+cd intern-dashboard
 2. Set Up the Backend
 The backend serves the data for the application.
 
