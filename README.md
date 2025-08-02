@@ -47,6 +47,7 @@ npm install
 
 # Start the server. The API will be available at http://localhost:3001
 npm start
+
 Note: The server must be running for the frontend to function.
 
 3. Set Up the Frontend
