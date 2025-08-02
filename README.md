@@ -12,6 +12,10 @@ JSON Data Storage: The backend reads data from a local interns.json file, making
 
 Screenshots
 Here are two mock screenshots to give you a visual idea of the application.
+<img width="1919" height="967" alt="Screenshot 2025-08-02 082026" src="https://github.com/user-attachments/assets/30f8524e-646a-4534-87af-4081a6fd5ad2" />
+
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/858e8adb-710e-4781-8ffa-06580fa60d96" />
+
 
 Login Page
 A clean, centered login page with input fields for a username and password, along with a "Login" button.
@@ -30,12 +34,11 @@ npm (comes with Node.js)
 1. Clone the Repository
 Bash
 
-git clone https://github.com/your-username/intern-dashboard-project.git
+git clone https://github.com/mdfarhaan13/intern-dashboard.git
 cd intern-dashboard-project
 2. Set Up the Backend
 The backend serves the data for the application.
 
-Bash
 
 # Navigate to the backend directory
 cd backend
@@ -50,7 +53,6 @@ Note: The server must be running for the frontend to function.
 3. Set Up the Frontend
 The frontend is the React application that you will see in your browser. Open a new terminal window for this step.
 
-'''Bash'''
 
 # Navigate to the frontend directory
 cd ../frontend
